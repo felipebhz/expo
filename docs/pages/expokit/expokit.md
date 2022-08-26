@@ -361,7 +361,6 @@ If upgrading from SDK31 or below:
    api 'host.exp.exponent:expo-face-detector:+'
    api 'org.unimodules:unimodules-face-detector-interface:+'
    api 'host.exp.exponent:expo-font:+'
-   api 'host.exp.exponent:expo-gl-cpp:+'
    api 'host.exp.exponent:expo-gl:+'
    api 'host.exp.exponent:expo-local-authentication:+'
    api 'host.exp.exponent:expo-localization:+'
